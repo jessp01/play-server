@@ -6,7 +6,7 @@
 		"memcached": ">=0.2.8",
 		"follow-redirects": ">=0.0.3",
 		"coffee-script": "~1.7.1",
-		"xmldom": "0.1.19",
+		"xmldom": "0.5.0",
 		"mime": ">=1.2.11",
 		"nan": ">=1.5.1",
 		"temp": ">=0.7.0",
